@@ -43,14 +43,34 @@ Centralized campus building info (hours, directions, events) with search/sort/ta
 **Stack:** JavaScript, TypeScript, React, HTML/CSS  
 [🔗 Live Demo](#)  
 
+    • Designed and developed a web platform to centralize building information (hours, directions, events) for students
+    • Implemented search, sort, tagging, and media display features to improve usability and navigation across 20+
+    campus locations
+    • Planned scalable architecture with future support for centralized database updates and embedded campus tools
+
 ### 🔹 Cache Simulator – Runtime Optimizer  
 Built an associative cache simulator with runtime calculations and replacement policies  
 **Stack:** Java, Python  
+
+    • Built an associative cache simulator with built-in runtime calculations, dynamic parameters, and write-back and
+    replacement policies to determine optimal cache settings from input files
+
 
 ### 🔹 AI Blackjack Simulator 🎴  
 An online Blackjack game with an embedded **AI multiplayer algorithm** featuring **3 unique difficulty levels**.  
 Analyzes player performance and suggests gameplay strategies.  
 **Stack:** JavaScript, C, C++, HTML, CSS  
+
+    • An online Blackjack game with an embedded AI multiplayer algorithm featuring 3 unique difficulty settings
+    • Analyses player performance to suggest game-play strategies and techniques
+
+### 🔹 HCI Research Assistant  
+Analyzed human-computer interaction studies and contributed insights on **research methodology** to improve collaborative writing tools.  
+Worked with faculty to explore new **design frameworks** and version control practices for research software.  
+**Stack:** Git, UI/UX, Research Methods  
+
+    • Analyzed human-computer interaction studies and contributed methodology insights to improve collaborative
+    writing tools and version control software
 
 ---
 
