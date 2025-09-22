@@ -36,12 +36,14 @@
 
 ---
 
-## 🚀 Featured Projects  
 
-### 🔹 Oberlin Campus Directory  
-Centralized campus building info (hours, directions, events) with search/sort/tagging  
-**Stack:** JavaScript, TypeScript, React, HTML/CSS  
-[🔗 Live Demo](#)  
+### 🚀 Featured Projects  
+
+- [**Oberlin Campus Directory**](https://v0-new-project-hyzvelwh0bz.vercel.app/)  
+  Centralized campus info (hours, directions, events) with search/sort/tagging  
+  *Stack: JavaScript, TypeScript, React, HTML/CSS*  
+  [🔗 Live Demo](https://v0-new-project-hyzvelwh0bz.vercel.app/)  
+
 
     • Designed and developed a web platform to centralize building information (hours, directions, events) for students
     • Implemented search, sort, tagging, and media display features to improve usability and navigation across 20+
