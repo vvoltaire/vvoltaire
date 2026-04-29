@@ -1,6 +1,6 @@
-<p align="center">
+<!--- <p align="center">
   <img src="https://raw.githubusercontent.com/vvoltaire/vinslinevoltaire/main/banner.png" alt="Vinsline Voltaire Banner" />
-</p>
+</p> --->
 
 # Hi, I’m V. Voltaire 👋  
 
