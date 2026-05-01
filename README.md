@@ -9,10 +9,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 CS major with Data Science concentration from Oberlin College  
-- 🚀 Experience in **Full-Stack Development**, **AI Engineering**, and **Front-End UI/UX**  
-- 💼 Worked at Salesforce and Minds Matter Chicago  
-- 🌟 Passionate about building impactful tech and exploring creative solutions  
+- CS major with Data Science concentration from Oberlin College  
+- Experience in **Full-Stack Software Egineering** and **Front-End Software Engineering**
+- Worked at Manulife John Hancock, Salesforce, and Minds Matter Chicago  
+- Passionate about building impactful tech and exploring creative solutions  
 
 ---
 
