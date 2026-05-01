@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/vvoltaire/vinslinevoltaire/main/banner.png" alt="Vinsline Voltaire Banner" />
 </p> --->
 
-# Hi, I’m V 👋  
+# Hi, I’m Vinsline 👋  
 
 💻 **Full-Stack Software Engineer** 
 
