@@ -87,9 +87,3 @@ Worked with faculty to explore new **design frameworks** and version control pra
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvoltaire&layout=compact&hide_border=true" height="150" />
 </p>
 
----
-
-## 📬 Connect  
-- 💼 LinkedIn: [linkedin.com/in/vinslinevoltaire](https://linkedin.com/in/vinslinevoltaire)  
-
-
