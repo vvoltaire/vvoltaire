@@ -77,7 +77,6 @@ Worked with faculty to explore new **design frameworks** and version control pra
 ---
 
 ## 🌱 Currently Learning  
-- Secure software engineering (CSSLP coursework, OWASP Top 10)  
 - Advanced full-stack patterns and AI-driven automation pipelines  
 
 ---
