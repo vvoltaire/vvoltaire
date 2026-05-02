@@ -90,7 +90,6 @@ Worked with faculty to explore new **design frameworks** and version control pra
 ---
 
 ## 📬 Connect  
-- 📧 Email: vvoltar@oberlin.edu  
 - 💼 LinkedIn: [linkedin.com/in/vinslinevoltaire](https://linkedin.com/in/vinslinevoltaire)  
 
 
