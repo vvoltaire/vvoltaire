@@ -53,15 +53,7 @@
 Built an associative cache simulator with runtime calculations and replacement policies  
 **Stack:** Java, Python  
 
-    • Built an associative cache simulator with built-in runtime calculations, dynamic parameters, and write-back and replacement policies to determine optimal cache settings from input files  
-
-### 🔹 AI Blackjack Simulator 🎴  
-An online Blackjack game with an embedded **AI multiplayer algorithm** featuring **3 unique difficulty levels**.  
-Analyzes player performance and suggests gameplay strategies.  
-**Stack:** JavaScript, C, C++, HTML, CSS  
-
-    • An online Blackjack game with an embedded AI multiplayer algorithm featuring 3 unique difficulty settings  
-    • Analyses player performance to suggest gameplay strategies and techniques  
+    • Built an associative cache simulator with built-in runtime calculations, dynamic parameters, and write-back and replacement policies to determine optimal cache settings from input files   
 
 ### 🔹 HCI Research Assistant  
 Analyzed human-computer interaction studies and contributed insights on **research methodology** to improve collaborative writing tools.  
