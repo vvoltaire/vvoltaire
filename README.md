@@ -12,7 +12,7 @@ CS + Data Science @ Oberlin College.
 ## Projects
 
 ### ✦ Start Page &nbsp;`in progress`
-A visual internet room for creative people drowning in inspiration.  
+A visual start page for creative people drowning in inspiration.  
 Drag-and-drop cards, rich media previews, spatial organization — a freeform canvas instead of a bookmark list.  
 `React` `Vite` `Tailwind` `Framer Motion` `Supabase` `dnd-kit`
 
