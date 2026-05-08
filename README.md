@@ -64,11 +64,6 @@ Worked with faculty to explore new **design frameworks** and version control pra
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced full-stack patterns and AI-driven automation pipelines  
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvoltaire&show_icons=true&theme=default&hide_border=true" height="150" />
