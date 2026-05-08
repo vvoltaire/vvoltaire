@@ -1,8 +1,11 @@
 # vvoltaire
+**Full-stack engineer. Code, art, and design meet here.**
 
-**Full-stack engineer. Art, music, and design live here too.**
+Portfolio site soon :)
+Currently at Manulife John Hancock.
+CS + Data Science @ Oberlin College.
 
-CS + Data Science @ Oberlin College. Previously Manulife John Hancock, Salesforce, Minds Matter Chicago.
+[LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/)
 
 ---
 
