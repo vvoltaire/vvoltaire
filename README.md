@@ -1,6 +1,5 @@
 # vvoltaire 
 **Full-stack engineer. Exploring real-time graphics, generative systems, and interactive simulation.** 
-**Code, art, and design meet here.**
 
 Portfolio site in progress :)  
 Currently at Manulife John Hancock.  
