@@ -1,4 +1,4 @@
-# vvoltaire
+# vvoltaire · <sub>full-stack engineer</sub>
 **Full-stack engineer exploring real-time graphics, generative systems, and interactive simulation.**
 # vvoltaire
 **Full-stack engineer. Code, art, and design meet here.**
