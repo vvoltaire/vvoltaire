@@ -1,7 +1,7 @@
 # vvoltaire 
 **Full-stack engineer. Exploring real-time graphics, generative systems, and interactive simulation.** 
 
-Portfolio site in progress :)  
+Portfolio site in progress :)  [Preview ↗](https://vvoltaire-portfolio.vercel.app/)
 Currently at Manulife John Hancock.  
 CS + Data Science @ Oberlin College.
 
@@ -12,8 +12,6 @@ CS + Data Science @ Oberlin College.
 ## Projects
 
 ### ✦ Interactive Ocean Portfolio &nbsp;`in progress`
-[Live ↗](https://vvoltaire-portfolio.vercel.app/))
-
 Immersive 3D portfolio experience set on an interactive ocean horizon.  
 Projects float on the water surface as draggable objects while a clean scrollable portfolio exists underneath for accessibility and readability.  
 `Three.js` `React` `Vite` `GLSL` `Tailwind`
