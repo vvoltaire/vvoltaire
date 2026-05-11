@@ -1,12 +1,12 @@
 # vvoltaire 
 **Full-stack engineer. Exploring real-time graphics, generative systems, and interactive simulation.** 
 
-[Portfolio Site ↗](https://vvoltaire-portfolio.vercel.app/) in progress :)  
-
 Currently at Manulife John Hancock.  
 CS + Data Science @ Oberlin College.
 
 [LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/)
+
+[Portfolio Site ↗](https://vvoltaire-portfolio.vercel.app/) in progress :)  
 
 ---
 
