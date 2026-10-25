@@ -1,52 +1,35 @@
-# vvoltaire 
-**Full-stack engineer. Exploring real-time graphics, generative systems, and interactive simulation.** 
+# vvoltaire
+**Full-stack engineer. Exploring real-time graphics, generative systems, and interactive simulation.**
 
-Currently at Manulife John Hancock.  
+Currently at Manulife / John Hancock.  
 CS + Data Science @ Oberlin College.
 
-[LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/)
-
-[Portfolio Site ↗](https://vvoltaire-portfolio.vercel.app/) in progress :)  
+[LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/) &nbsp;·&nbsp; [Portfolio ↗](https://vvoltaire-portfolio.vercel.app/)
 
 ---
 
 ## Projects
 
-### ✦ Interactive Ocean Portfolio &nbsp;`in progress`
-Immersive 3D portfolio experience set on an interactive ocean horizon.  
-Projects float on the water surface as draggable objects while a clean scrollable portfolio exists underneath for accessibility and readability.  
-`Three.js` `React` `Vite` `GLSL` `Tailwind`
+### ✦ Fragment &nbsp;`in progress`
+A platform for writing, sharing, and remixing GLSL shaders in the browser.  
+Write shaders in a live editor with an instant WebGL preview, save them to your profile, fork other people's work, and browse a public gallery. Each saved shader gets a thumbnail rendered automatically by a background job. Includes raymarching templates for building 3D scenes from signed distance functions.  
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `WebGL` `GLSL`
 
-### ✦ Start Page &nbsp;`in progress`
-A visual start page for creative people drowning in inspiration.  
-Drag-and-drop cards, rich media previews, and spatial organization designed as a freeform creative workspace instead of a bookmark list.  
-`React` `Vite` `Tailwind` `Framer Motion` `Supabase` `dnd-kit`
+### ✦ Path Tracer &nbsp;`in progress`
+A physically based path tracer written from scratch in C++.  
+Renders realistic images by simulating how light bounces through a scene, with diffuse, metal, and glass materials. Uses multithreading and a bounding volume hierarchy (BVH) to speed up rendering, with benchmarks on render time.  
+`C++` `Multithreading` `CMake`
 
-### ✦ Latent Fractal Zoom &nbsp;`TBA`
-Experimental image system that transforms uploaded images into recursively zoomable visual spaces.  
-Blends procedural generation, fractal structures, and generative image expansion.
-
-### ✦ Raymarcher Studio &nbsp;`TBA`
-Shader-driven rendering engine using signed distance fields and procedural geometry instead of traditional meshes.  
-Focused on real-time rendering experiments and GPU-based visuals.
-
-### ✦ Procedural Infinite City &nbsp;`TBA`
-Endless procedural city generation system with atmospheric lighting, fog, and dynamic world generation.  
-Built around scalable rendering and real-time environmental systems.
-
-### ✦ Reaction-Diffusion System &nbsp;`TBA`
-Simulation of emergent chemical pattern formation producing evolving organic textures and structures.  
-Focused on generative behavior and mathematical simulation.
-
-### ✦ Audio Reactive Camera &nbsp;`TBA`
-Real-time 3D environment where camera motion, lighting, and environmental behavior respond dynamically to live audio input.
+### ✦ Interactive Ocean Portfolio &nbsp;`live`
+A 3D portfolio set on an interactive ocean horizon, with a simulated water surface and dynamic sky.  
+Projects float on the water as draggable objects, with a standard scrollable portfolio underneath for accessibility.  
+`Three.js` `React` `Vite` `GLSL` `Tailwind`  
+[View site ↗](https://vvoltaire-portfolio.vercel.app/)
 
 ---
 
 ## Stack
 
-`JavaScript` `TypeScript` `Python` `Java` `C/C++` `SQL`  
-`React` `Three.js` `GLSL` `Vite` `Tailwind` `Supabase`  
-`REST APIs` `Git` `Snowflake` `Figma`
-
----
+`TypeScript` `JavaScript` `Python` `Java` `C++` `SQL` `GLSL`  
+`React` `Next.js` `Node.js` `Spring Boot` `Three.js` `WebGL`  
+`PostgreSQL` `Snowflake` `REST APIs` `Docker` `Git` `Figma`
