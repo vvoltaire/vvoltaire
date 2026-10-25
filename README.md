@@ -26,22 +26,15 @@ Projects float on the water as draggable objects, with a standard scrollable por
 `Three.js` `React` `Vite` `GLSL` `Tailwind`  
 [View site ↗](https://vvoltaire-portfolio.vercel.app/)
 
-### Render Farm `upcoming`
+### ✦ Render Farm &nbsp;`upcoming`
+A distributed rendering system that splits path tracer jobs into tiles and runs them across a scalable pool of workers.  
+A coordinator schedules tiles, tracks worker heartbeats, and reassigns work when a worker fails, then stitches the results into the final image or animation. Workers autoscale on Kubernetes based on queue depth.  
+`Java` `Spring Boot` `C++` `PostgreSQL` `Docker` `Kubernetes`
 
-A distributed rendering system for my [C++ path tracer](https://github.com/vvoltaire/path-tracer).
-
-**Planned:**
-- Coordinator service that splits renders into tiles and schedules them across workers
-- Worker heartbeats and lease-based reassignment when a worker fails
-- Autoscaling workers on Kubernetes based on queue depth
-- Live dashboard showing tiles completing in real time
-- Benchmarks of render time across 1, 4, and 16 workers
-
-Development starts once the path tracer is complete.
 ---
 
 ## Stack
 
 `TypeScript` `JavaScript` `Python` `Java` `C++` `SQL` `GLSL`  
 `React` `Next.js` `Node.js` `Spring Boot` `Three.js` `WebGL`  
-`PostgreSQL` `Snowflake` `REST APIs` `Docker` `Git` `Figma`
+`PostgreSQL` `Snowflake` `REST APIs` `Docker` `Kubernetes` `Git` `Figma`
