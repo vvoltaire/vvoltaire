@@ -26,7 +26,7 @@ Projects float on the water as draggable objects, with a standard scrollable por
 `Three.js` `React` `Vite` `GLSL` `Tailwind`  
 [View site ↗](https://vvoltaire-portfolio.vercel.app/)
 
-# Render Farm `upcoming`
+### Render Farm `upcoming`
 
 A distributed rendering system for my [C++ path tracer](https://github.com/vvoltaire/path-tracer).
 
