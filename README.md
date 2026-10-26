@@ -10,6 +10,17 @@ CS + Data Science @ Oberlin College.
 
 ## Projects
 
+### ✦ vinsline.dev &nbsp;`live`
+My personal site, with an interactive 3D laptop in the hero, light and dark themes, and a hobbies section with small interactive pieces.  
+Built as a single scrolling page covering projects, experience, and life outside of code.  
+`Next.js` `TypeScript` `React Three Fiber` `Three.js` `Tailwind`  
+[View site ↗](https://vinsline-dev.vercel.app) &nbsp;·&nbsp; [Code ↗](https://github.com/vvoltaire/vinsline.dev)
+
+<p>
+  <img src="https://github.com/user-attachments/assets/f0d3938a-82b8-4e37-b5ec-c1a65afb5892" width="49%" alt="vinsline.dev in light mode">
+  <img src="https://github.com/user-attachments/assets/c3d06eda-ac14-422a-8921-ece1e364ece6" width="49%" alt="vinsline.dev in dark mode">
+</p>
+
 ### ✦ Fragment &nbsp;`in progress`
 A platform for writing, sharing, and remixing GLSL shaders in the browser.  
 Write shaders in a live editor with an instant WebGL preview, save them to your profile, fork other people's work, and browse a public gallery. Each saved shader gets a thumbnail rendered automatically by a background job. Includes raymarching templates for building 3D scenes from signed distance functions.  
@@ -19,18 +30,6 @@ Write shaders in a live editor with an instant WebGL preview, save them to your 
 A physically based path tracer written from scratch in C++.  
 Renders realistic images by simulating how light bounces through a scene, with diffuse, metal, and glass materials. Uses multithreading and a bounding volume hierarchy (BVH) to speed up rendering, with benchmarks on render time.  
 `C++` `Multithreading` `CMake`
-
-### ✦ vinsline.dev &nbsp;`live`
-My personal site, with an interactive 3D laptop in the hero, light and dark themes, and a hobbies section with small interactive pieces.  
-Built as a single scrolling page covering projects, experience, and life outside of code.  
-`Next.js` `TypeScript` `React Three Fiber` `Three.js` `Tailwind`  
-[Code ↗](https://github.com/vvoltaire/vinsline.dev)
-
-**[View live ↗](https://vinsline-dev.vercel.app)** (https://vinsline-dev.vercel.app/)
-
-<img width="2560" height="1600" alt="22A284AD-B91B-44C7-86EC-E7F7165866FA" src="https://github.com/user-attachments/assets/f0d3938a-82b8-4e37-b5ec-c1a65afb5892" />
-
-<img width="1280" height="800" alt="Screenshot 2026-10-26 at 2 54 08 AM" src="https://github.com/user-attachments/assets/c3d06eda-ac14-422a-8921-ece1e364ece6" />
 
 ### ✦ Render Farm &nbsp;`upcoming`
 A distributed rendering system that splits path tracer jobs into tiles and runs them across a scalable pool of workers.  
