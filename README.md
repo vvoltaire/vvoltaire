@@ -20,7 +20,7 @@ A physically based path tracer written from scratch in C++.
 Renders realistic images by simulating how light bounces through a scene, with diffuse, metal, and glass materials. Uses multithreading and a bounding volume hierarchy (BVH) to speed up rendering, with benchmarks on render time.  
 `C++` `Multithreading` `CMake`
 
-### ✦ vinsline.dev &nbsp;`in progress`
+### ✦ vinsline.dev &nbsp;`live`
 My personal site, with an interactive 3D laptop in the hero, light and dark themes, and a hobbies section with small interactive pieces.  
 Built as a single scrolling page covering projects, experience, and life outside of code.  
 `Next.js` `TypeScript` `React Three Fiber` `Three.js` `Tailwind`  
