@@ -17,7 +17,7 @@ Built as a single scrolling page covering projects, experience, and life outside
 [View site ↗](https://vinsline-dev.vercel.app) &nbsp;·&nbsp; [Code ↗](https://github.com/vvoltaire/vinsline.dev)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/f0d3938a-82b8-4e37-b5ec-c1a65afb5892" width="49%" alt="vinsline.dev in light mode">
+  <img src="https://github.com/user-attachments/assets/f0d3938a-82b8-4e37-b5ec-c1a65afb5892 width="49%" alt="vinsline.dev in light mode">
   <img src="https://github.com/user-attachments/assets/c3d06eda-ac14-422a-8921-ece1e364ece6" width="49%" alt="vinsline.dev in dark mode">
 </p>
 
