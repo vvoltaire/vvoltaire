@@ -20,9 +20,6 @@ Built as a single scrolling page covering projects, experience, and life outside
   <img src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe" width="49%" alt="vinsline.dev in light mode">
   <img src="https://github.com/user-attachments/assets/fca78d5d-f6b2-444c-a1cf-1f016dbe8019" width="49%" alt="vinsline.dev in dark mode">
 </p>
-<img width="1280" height="800" alt="Screenshot 2026-10-26 at 1 27 16 PM" src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe" />
-
-<img width="1280" height="800" alt="Screenshot 2026-10-26 at 1 26 08 PM" src="https://github.com/user-attachments/assets/fca78d5d-f6b2-444c-a1cf-1f016dbe8019" />
 
 
 ### ✦ Fragment &nbsp;`in progress`
