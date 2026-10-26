@@ -14,7 +14,7 @@ CS + Data Science @ Oberlin College.
 My personal site, with an interactive 3D laptop in the hero, light and dark themes, and a hobbies section with small interactive pieces.  
 Built as a single scrolling page covering projects, experience, and life outside of code.  
 `Next.js` `TypeScript` `React Three Fiber` `Three.js` `Tailwind`  
-[View site ↗](https://vinsline-dev.vercel.app) &nbsp;·&nbsp; [Code ↗](https://github.com/vvoltaire/vinsline.dev)
+[View site ↗](https://vinsline-dev.vercel.app) (**[vinsline-dev.vercel.app](https://vinsline-dev.vercel.app)**) &nbsp;·&nbsp; [Code ↗](https://github.com/vvoltaire/vinsline.dev)
 
 <p>
   <img src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe" width="49%" alt="vinsline.dev in light mode">
