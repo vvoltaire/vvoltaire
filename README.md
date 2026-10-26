@@ -20,11 +20,11 @@ A physically based path tracer written from scratch in C++.
 Renders realistic images by simulating how light bounces through a scene, with diffuse, metal, and glass materials. Uses multithreading and a bounding volume hierarchy (BVH) to speed up rendering, with benchmarks on render time.  
 `C++` `Multithreading` `CMake`
 
-### ✦ Interactive Ocean Portfolio &nbsp;`live`
-A 3D portfolio set on an interactive ocean horizon, with a simulated water surface and dynamic sky.  
-Projects float on the water as draggable objects, with a standard scrollable portfolio underneath for accessibility.  
-`Three.js` `React` `Vite` `GLSL` `Tailwind`  
-[View site ↗](https://vvoltaire-portfolio.vercel.app/)
+### ✦ vinsline.dev &nbsp;`in progress`
+My personal site, with an interactive 3D laptop in the hero, light and dark themes, and a hobbies section with small interactive pieces.  
+Built as a single scrolling page covering projects, experience, and life outside of code.  
+`Next.js` `TypeScript` `React Three Fiber` `Three.js` `Tailwind`  
+[Code ↗](https://github.com/vvoltaire/YOUR-REPO-NAME)
 
 ### ✦ Render Farm &nbsp;`upcoming`
 A distributed rendering system that splits path tracer jobs into tiles and runs them across a scalable pool of workers.  
