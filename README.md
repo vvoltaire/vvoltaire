@@ -4,7 +4,7 @@
 Currently at Manulife / John Hancock.  
 CS + Data Science @ Oberlin College.
 
-[LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/) &nbsp;·&nbsp; [Portfolio ↗]()
+[LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/) &nbsp;·&nbsp; [Portfolio ↗](https://vinsline-dev.vercel.app/)
 
 ---
 
