@@ -17,9 +17,13 @@ Built as a single scrolling page covering projects, experience, and life outside
 [View site ↗](https://vinsline-dev.vercel.app) &nbsp;·&nbsp; [Code ↗](https://github.com/vvoltaire/vinsline.dev)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/f0d3938a-82b8-4e37-b5ec-c1a65afb5892" width="49%" alt="vinsline.dev in light mode">
-  <img src="https://github.com/user-attachments/assets/c3d06eda-ac14-422a-8921-ece1e364ece6" width="49%" alt="vinsline.dev in dark mode">
+  <img src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe" width="49%" alt="vinsline.dev in light mode">
+  <img src="https://github.com/user-attachments/assets/fca78d5d-f6b2-444c-a1cf-1f016dbe8019" width="49%" alt="vinsline.dev in dark mode">
 </p>
+<img width="1280" height="800" alt="Screenshot 2026-10-26 at 1 27 16 PM" src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe" />
+
+<img width="1280" height="800" alt="Screenshot 2026-10-26 at 1 26 08 PM" src="https://github.com/user-attachments/assets/fca78d5d-f6b2-444c-a1cf-1f016dbe8019" />
+
 
 ### ✦ Fragment &nbsp;`in progress`
 A platform for writing, sharing, and remixing GLSL shaders in the browser.  
