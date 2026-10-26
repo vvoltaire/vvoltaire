@@ -26,6 +26,12 @@ Built as a single scrolling page covering projects, experience, and life outside
 `Next.js` `TypeScript` `React Three Fiber` `Three.js` `Tailwind`  
 [Code ↗](https://github.com/vvoltaire/vinsline.dev)
 
+**[View live ↗](https://vinsline-dev.vercel.app)** (https://vinsline-dev.vercel.app/)
+
+<img width="2560" height="1600" alt="22A284AD-B91B-44C7-86EC-E7F7165866FA" src="https://github.com/user-attachments/assets/f0d3938a-82b8-4e37-b5ec-c1a65afb5892" />
+
+<img width="1280" height="800" alt="Screenshot 2026-10-26 at 2 54 08 AM" src="https://github.com/user-attachments/assets/c3d06eda-ac14-422a-8921-ece1e364ece6" />
+
 ### ✦ Render Farm &nbsp;`upcoming`
 A distributed rendering system that splits path tracer jobs into tiles and runs them across a scalable pool of workers.  
 A coordinator schedules tiles, tracks worker heartbeats, and reassigns work when a worker fails, then stitches the results into the final image or animation. Workers autoscale on Kubernetes based on queue depth.  
