@@ -25,7 +25,7 @@ Built as a single scrolling page covering projects, experience, and life outside
 
 | Dark mode (default) | Light mode |
 | :---: | :---: |
-| ![The site in dark mode, the default](PASTE-DARK-SCREENSHOT) | ![The site in light mode](PASTE-LIGHT-SCREENSHOT) |
+| ![The site in dark mode, the default](src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe") | ![The site in light mode](src="https://github.com/user-attachments/assets/fca78d5d-f6b2-444c-a1cf-1f016dbe8019") |
 
 
 ### ✦ Fragment &nbsp;`in progress`
