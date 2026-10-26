@@ -4,7 +4,7 @@
 Currently at Manulife / John Hancock.  
 CS + Data Science @ Oberlin College.
 
-[LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/) &nbsp;·&nbsp; [Portfolio ↗](https://vinsline-dev.vercel.app/)
+[LinkedIn ↗](https://www.linkedin.com/in/vvoltaire/) &nbsp;·&nbsp; [Portfolio Site↗](https://vinsline-dev.vercel.app/)
 
 ---
 
@@ -13,8 +13,8 @@ CS + Data Science @ Oberlin College.
 ### ✦ vinsline.dev &nbsp;`live`
 My personal site, built as one scrolling page with a 3D laptop you can open, rotate and switch between light and dark.  
 Underneath are small physics simulations and generated graphics: guitar strings you can strum, background lines you can pluck, and circuitry that grows wherever you click.  
-`Next.js` `TypeScript` `React Three Fiber` `Three.js` `Canvas 2D` `Tailwind` 
-[vinsline-dev.vercel.app ↗](https://vinsline-dev.vercel.app) (**[vinsline-dev.vercel.app](https://vinsline-dev.vercel.app)**) &nbsp;·&nbsp; [Code ↗](https://github.com/vvoltaire/vinsline.dev)
+`Next.js` `TypeScript` `React Three Fiber` `Three.js` `Canvas 2D` `Tailwind` &nbsp;·&nbsp;
+[**[vinsline-dev.vercel.app↗](https://vinsline-dev.vercel.app)** &nbsp;·&nbsp; [Code ↗](https://github.com/vvoltaire/vinsline.dev)
 
 <p>
   <img src="https://github.com/user-attachments/assets/9a29d633-50a9-420b-b079-b0ceeb187efe" width="49%" alt="vinsline.dev in light mode">
