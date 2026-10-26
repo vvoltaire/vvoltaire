@@ -21,6 +21,12 @@ Built as a single scrolling page covering projects, experience, and life outside
   <img src="https://github.com/user-attachments/assets/fca78d5d-f6b2-444c-a1cf-1f016dbe8019" width="49%" alt="vinsline.dev in dark mode">
 </p>
 
+![The hero: a 3D laptop boots up and types "access granted" next to my name](PASTE-GIF-LINK)
+
+| Dark mode (default) | Light mode |
+| :---: | :---: |
+| ![The site in dark mode, the default](PASTE-DARK-SCREENSHOT) | ![The site in light mode](PASTE-LIGHT-SCREENSHOT) |
+
 
 ### ✦ Fragment &nbsp;`in progress`
 A platform for writing, sharing, and remixing GLSL shaders in the browser.  
